@@ -3,12 +3,16 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
+
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://descomplica.com.br/faculdade">Faculdade Descomplica</a>.
 - 💼 &nbsp; Trabalhando como **Web Developer Front End** como <a href="https://api.whatsapp.com/send?phone=5521979221576&text=Ol%C3%A1">Freelancer</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Phyton, PHP, NodeJS e React**.
+- 🌱 &nbsp; Aprendendo mais sobre **Phyton, PHP, NodeJS e React**. 
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
+
+<img src="https://i.imgur.com/eF9ftzA.gif" display="flex" width="350px">
 
 **Aplicações e Dados**
 
