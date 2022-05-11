@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Sistemas de Informação** na <a href="estacio.br">Estácio de Sá</a>. 
-- 🌱 &nbsp; Aprendendo mais sobre **Phyton, C#, Node e DB**. 
+- 🌱 &nbsp; Aprendendo mais sobre **Python, C#, Node e DB**. 
 
 
 
