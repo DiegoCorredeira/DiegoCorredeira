@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=DiegoCorredeira&color=006bed)
 
 <h3>Olá, Devs! 👋</h3>
-<img align="right" width="300" src="https://i.imgur.com/eF9ftzA.gif">
+<img align="right" width="300" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://descomplica.com.br/faculdade">Faculdade Descomplica</a>. 
