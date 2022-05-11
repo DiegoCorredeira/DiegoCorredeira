@@ -1,13 +1,12 @@
 
 ![](https://komarev.com/ghpvc/?username=DiegoCorredeira&color=006bed)
 
-<h3>Olá, Devs! 👋</h3>
+<h3>Fala, meu brother!</h3>
 <img align="right" width="300" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Analise e Desenvolvimento de Sistemas** na <a href="https://descomplica.com.br/faculdade">Faculdade Descomplica</a>. 
-- 💼 &nbsp; Trabalhando como **Web Developer Front End** como <a href="https://api.whatsapp.com/send?phone=5521979221576&text=Ol%C3%A1">Freelancer</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Phyton, PHP, NodeJS e React**. 
+- 🎓 &nbsp; Estudando **Sistemas de Informação** na <a href="estacio.br">Estácio de Sá</a>. 
+- 🌱 &nbsp; Aprendendo mais sobre **Phyton, C#, Node e DB**. 
 
 
 
@@ -35,15 +34,12 @@
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
 
 <br/>
 
