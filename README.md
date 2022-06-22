@@ -5,7 +5,7 @@
 <img align="right" width="300" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Sistemas de Informação** na <a href="estacio.br">Estácio de Sá</a>. 
+- 🎓 &nbsp; Estudando **ADS** na <a href="estacio.br">Estácio de Sá</a>. 
 - 🌱 &nbsp; Aprendendo mais sobre **Python, C#, Node e DB**. 
 
 
