@@ -4,8 +4,8 @@
 <h3>Fala, meu brother!</h3>
 <img align="right" width="300" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
-- 🤔 &nbsp; Atuando como instrutor De Treinamento Júnior
-- 🎓 &nbsp; Formado em Análise e Aesenvolvimento de Sistemas pela universidade Descomplica
+- 🤔 &nbsp; Atuando como Gerente de Informatica
+- 🎓 &nbsp; Cursando Sistemas de Informação
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Linux, Java e Banco de dados**. 
 
 
