@@ -1,56 +1,19 @@
 
-![](https://komarev.com/ghpvc/?username=DiegoCorredeira&color=006bed)
+<h1 align="center">Fala, Dev! Eu sou o Diego Corredeira</h1>
+<h3 align="center">Gerente de informatica e estudante de TI</h3>
 
-<h3>Fala, meu brother!</h3>
-<img align="right" width="300" src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocorredeira" alt="dinhocaladinho" /> </p>
 
-- 🤔 &nbsp; Atuando como Gerente de Informatica
-- 🎓 &nbsp; Cursando Sistemas de Informação
-- 🌱 &nbsp; Aprendendo mais sobre **Python, Linux, Java e Banco de dados**. 
+**💼 Atualmente trabalhando como:** Gerente de informática em <a href="https://nilopolis.rj.gov.br/" target="_blank"><b>Prefeitura de Nilópolis</b></a>.
 
+📝 Atualmente estou estudando as seguintes tecnologias: <br>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <br><br>
+🕹️ Quando não estou estudando ou trabalhando, estou jogando alguns jogos na STEAM, sinta-se a vontade para me adicionar!<br> <a href="https://steamcommunity.com/id/Batmanvermelho/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
+</p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<hr />
 
-
-
-**Aplicações e Dados**
-
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![PYTHON](https://img.shields.io/badge/-PYTHON-333333?style=flat&logo=PYTHON)
-  ![c](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-
-**Utilidades**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=vPycharm&logoColor=007ACC)
-
-
-<br/>
-
-<a href="https://github.com/DiegoCorredeira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoCorredeira&theme=tokyonight&show_icons=true" />
-</a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-
-[![Gmail Badge](https://img.shields.io/badge/-dgcostapinto@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dgcostapinto@gmail.com)](mailto:dgcostapinto@gmail.com)
-[![GitHub Diego Corredeira]( https://img.shields.io/github/followers/DiegoCorredeira?label=follow&style=social)](https://github.com/DiegoCorredeira/)
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DiegoCorredeira&theme=Javascript-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/></a>
+</p>
