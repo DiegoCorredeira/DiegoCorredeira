@@ -13,7 +13,7 @@
 </p>
 
 <hr />
-<p align="center">Configurações do meu Setup <a target="blank" href="https://meusetup.vercel.app/">AQUI</a></p>
+<p align="center">Configurações do meu Setup <a target="_blank" href="https://meusetup.vercel.app/">AQUI</a></p>
 
 <hr />
 
