@@ -8,7 +8,7 @@
 
 📝 Estou estudando as seguintes tecnologias: <br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <br><br>
-🕹️ Quando não estou estudando ou trabalhando, estou jogando alguns jogos na STEAM, sinta-se a vontade para me adicionar!<br> <a href="https://steamcommunity.com/id/Batmanvermelho/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+🕹️ Quando não estou estudando ou trabalhando, estou jogando alguns jogos na STEAM, sinta-se a vontade para me adicionar!<br> <a align="center" href="https://steamcommunity.com/id/Batmanvermelho/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
 </p>
 
@@ -26,8 +26,7 @@
   - SSD: 2x128GB + 1TB
    <br>
   - Sistema Operacional: Windows 11 | Ubuntu 22.04
-  
-  I</a></p>
+  </p>
 
 <hr />
 
