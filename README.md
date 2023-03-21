@@ -13,7 +13,21 @@
 </p>
 
 <hr />
-<p align="center">Configurações do meu Setup <a  href="https://meusetup.vercel.app/" target="blank">AQUI</a></p>
+<p align="center">Configurações do meu Setup:
+  <br>
+  - MotherBoard: B450 AORUS 
+  <br>
+  - APU: Ryzen 3 4350G
+   <br>
+  - GPU: 1660s
+   <br>
+  - Ram: 2x8 Asgard 3200
+   <br>
+  - SSD: 2x128GB + 1TB
+   <br>
+  - Sistema Operacional: Windows 11 | Ubuntu 22.04
+  
+  I</a></p>
 
 <hr />
 
