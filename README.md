@@ -15,7 +15,7 @@
 <hr />
 <p align="center">Configurações do meu Setup:
   <br>
-  - MotherBoard: B450 AORUS 
+  - MotherBoard: B550 AORUS 
   <br>
   - APU: Ryzen 3 4350G
    <br>
