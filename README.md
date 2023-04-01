@@ -1,6 +1,6 @@
 
 <h1 align="center">Fala, Dev! Eu sou o Diego Corredeira</h1>
-<h3 align="center">Estudante de Sistemas</h3>
+<h3 align="center">Estudante de Sistemas de Informação</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocorredeira" alt="dinhocaladinho" /> </p>
 
