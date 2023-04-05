@@ -11,9 +11,6 @@
 💻 Utilizando as seguintes ferramentas: <br>
 <img src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black" alt="PyCharm badge"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code badge"/>
 
-📇Sistema Operacional : <br>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge"/>
-
 🕹️ Quando não estou estudando ou trabalhando, estou jogando alguns jogos na STEAM, sinta-se a vontade para me adicionar!<br> <a align="center" href="https://steamcommunity.com/id/Batmanvermelho/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 
 </p>
@@ -31,7 +28,8 @@
    <br>
   - SSD: 2x128GB + 1TB
    <br>
-  - Sistema Operacional: Windows 11 | Ubuntu 22.04
+  📇Sistema Operacional 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge"/> | <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge"/>
   </p>
 
 <hr />
