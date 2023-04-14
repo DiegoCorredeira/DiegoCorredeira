@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegocorredeira" alt="dinhocaladinho" /> </p>
 
-**💼 Atualmente trabalhando como:** Gerente de informática em <a href="https://nilopolis.rj.gov.br/" target="_blank"><b>Prefeitura de Nilópolis</b></a>.
+**💼 Atualmente trabalhando como:** Analista de sistemas junior  em <a href="https://www.americanas.com.br/" target="_blank"><b>Lojas Americanas </b></a>.
 
 📝 Estou estudando as seguintes tecnologias: <br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java badge"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge"/> <br><br>
@@ -26,7 +26,7 @@
    <br>
   - Ram: 2x8 Asgard 3200
    <br>
-  - SSD: 2x128GB + 1TB
+  - SSD: 2x240GB + 1TB
    <br>
   📇Sistema Operacional 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows badge"/>  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu badge"/>
