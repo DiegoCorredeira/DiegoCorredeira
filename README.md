@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Analista+De+Sistemas;++;Programador+Python,;Estudante+de+Sistemas+de+Informação,;Aluno/Pesquisador,;"></a>
 </p>
-
+ 
 
 <br>
 
@@ -72,7 +72,8 @@
 
 <a href="https://github.com/diegocorredeira/">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DiegoCorredeira&theme=Javascript-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/></a>
-
+	<br>
+ <a href="https://portfolio-diegocorredeira.vercel.app/" target="_blank">Acesse o meu portifólio aqui</a>
 </a>
 </div>
 
