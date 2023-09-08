@@ -6,9 +6,6 @@
  
 
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
@@ -17,9 +14,9 @@
 <br>
 
 - Programador Python apaixonado pela linguaguem
-- Player nas horas vagas
+- Aprendendo Go
 - Atualmente estudando Sistemas de Informação e Engenharia de Produção
-- Atualmente trabalhando como Analista de Sistemas Jr
+- Trabalhando como Analista de Sistemas 
 
 <br><br>
 
@@ -33,6 +30,7 @@
 - **Linguagens**:
   
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge"/>
+   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go badge">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C badge"/>
@@ -52,7 +50,11 @@
 <br>
 
 - **Softwares e Ferramentas**:
-
+  
+    ![Redes Badge](https://img.shields.io/badge/Redes-007ACC?style=for-the-badge&logo=cisco&logoColor=white)
+    ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+    ![Bash Badge](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
@@ -78,7 +80,6 @@
 <a href="https://github.com/diegocorredeira/">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DiegoCorredeira&theme=Javascript-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D"/></a>
 	<br>
- <a href="https://portfolio-diegocorredeira.vercel.app/" target="_blank">Acesse o meu portifólio aqui</a>
 </a>
 </div>
 
