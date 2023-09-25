@@ -1,7 +1,7 @@
 <h1 align="center"><b>Fala, Dev! Eu sou o Diego Corredeira</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Analista+De+Sistemas;++;Programador+Python,;Estudante+de+Sistemas+de+Informação,;Aluno/Pesquisador,;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programador+Python;Estudante+de+Sistemas+de+Informação;"></a>
 </p>
  
 
@@ -15,7 +15,7 @@
 
 - Programador Python apaixonado pela linguaguem
 - Aprendendo Go
-- Atualmente estudando Sistemas de Informação e Engenharia de Produção
+- Atualmente estudando Sistemas de Informação
 - Trabalhando como Analista de Sistemas 
 
 <br><br>
@@ -34,6 +34,9 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R badge"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP badge"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C badge"/>
+  <img src="https://img.shields.io/badge/Database-DB-00599C?style=for-the-badge&logo=database&logoColor=white" />
+
+
 <br>   
     
 - **Front-End**:
@@ -47,6 +50,8 @@
 	
    ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
    ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  [![API](https://img.shields.io/badge/API-RESTful-009688?style=for-the-badge&logo=api&logoColor=white)](https://example.com/api)
+
 <br>
 
 - **Softwares e Ferramentas**:
